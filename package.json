@@ -1,0 +1,24 @@
+{
+  "name": "intradayspell-website",
+  "version": "1.0.0",
+  "description": "IntradaySpell — Futuristic Technology & Digital Services Platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -l 3000 .",
+    "dev": "npx serve -l 3000 .",
+    "serve": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "intradayspell",
+    "tech-agency",
+    "web-development",
+    "app-development",
+    "software-engineering",
+    "cybersecurity",
+    "ai-solutions",
+    "hardware-supply",
+    "office-it-setup"
+  ],
+  "author": "IntradaySpell <intradayspell@gmail.com>",
+  "license": "MIT"
+}
